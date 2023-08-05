@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+   /* box-sizing: border-box;*/
+}
+
+table {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+    background-color: burlywood;
+}
+
+.sub.titulo {
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+    width: 60%;
+}
